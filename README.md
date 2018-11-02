@@ -1,12 +1,10 @@
 # My README
 
-Hi! Welcome to the team!
+What on earth is a manager readme!? Think of it as a quick start guide for how I think, work, and how you and I will work together. It includes an overview of my personality, leadership philosophies, and expectations. It's not a replacement for actually getting to know each other but a way to accelerate our working relationship. However, I do look forward to actually getting to know you!
 
-Your first couple of weeks are going to be information overload. Take a deep breath, we don't expect you to remember everything or make major contributions until at least your second day (kidding!). It's going to take a few months before you wrap your head around our business, acronyms (there's a lot, and I mean, a lot of them), personalities, and culture. Don't be discouraged if you don't know what people are talking about right off the bat. With time, it will all make sense and you'll be sure to receive support from people inside and outside of digital product.
+This document is a living breathing document and will be updated as my philosophies change, I learn things about myself, or feel like there's something you should know.
 
-So what is this document? Think of it as a quick start guide for how I think, work, and how you and I will work together. It includes an overview of my personality, leadership philosophies, and expectations. It's not a replacement for actually getting to know each other but a way to accelerate our working relationship. However, I do look forward to actually getting to know you!
-
-**Disclaimer:** This document is about me and me alone. It does not represent the views of anyone else at Common.
+**Disclaimer:** This README is about me and me alone. It does not represent the views of anyone else at Common.
 
 ## My Role
 As the CTO of Common my responsibilities are:
@@ -17,7 +15,7 @@ As the CTO of Common my responsibilities are:
 - Set and provide context
 - Define a long term roadmap and vision for how Common uses technology
 - Review and iterate on our process and technology
-- Mentor and help you be success at your job
+- Mentor and help you be successful at your job
 
 I'm here for you. I'll do what I can to provide opportunities for learning and personal growth. You'll need to see these as opportunities and act on them. This is your career and I won't tell you what you should do, but I'm here to guide you and offer feedback and advice. I'm here to help you achieve your goals.
 
@@ -29,7 +27,7 @@ At the moment, I'm not making code contributions to Commons code base, but one d
 
 I've added a 30 minute weekly 1:1 to your calendar. This is your time. Feel free to reschedule it to a time that is best for you and adjust the length and frequency as you see fit. If you feel like an hour is what you need, lets meet for an hour. If you'd prefer to meet every two weeks for 30 minutes, let's do that. At a minimum we should try and meet for at least 30 minutes every two weeks.
 
-Since this is your, meeting I expect you to drive the agenda and come to the meeting with topics to discuss. It can be difficult to come up with topics in the moment, so I encourage you to write down topics throughout the week and send them to me a few days/hours before we meet. The earlier I get them the more time I have to think about a response. Don't save time sensitive or important things for our 1:1, we should chat about that sooner.
+Since this is your meeting, I expect you to drive the agenda and come to the meeting with topics to discuss. It can be difficult to come up with topics in the moment, so I encourage you to write down topics throughout the week and send them to me a few days/hours before we meet. The earlier I get them the more time I have to think about a response. Don't save time sensitive or important things for our 1:1, we should chat about that sooner.
 
 The most productive 1:1's are where we talk about your goals, personal growth, the company, the vision, strategy, etc. Our 1:1 should not be a status update session. We should only talk about status if you feel like I need a status update (I won't ask you for one). I'm happy to talk through the challenges you are having on a project, but you don't need to wait for our 1:1 to tap me for help.
 
@@ -65,30 +63,14 @@ I'm more interested in output and impact than hours in the office. You're an adu
 
 I love what I do and sometimes I work in the evenings or during the weekend. I don't expect you to. I don't mute slack notifications to my phone and I check email regularly. During off hours I filter incoming messages and will reply if it's important, I'm not busy, or if it only requires a quick response. Outside of working hours I often think of ideas, questions, or solutions. This might manifest itself in an email, comment, or slack message directed to you. I don't expect you to reply until the next business day unless I call it out as urgent.
 
-We have a flexible work from home policy. If you have a delivery, doctors appointment, or just need some quiet space, feel free to work from home. The best way to inform the team is to drop a note in #c-has-anyone-seen. There's a special format that you can learn on The Source.
-
 ## Meetings
-Meetings are what you make of them. If the meeting isn't focused, starts late, or has no real purpose it will be a waste of time for everyone. On the other hand, meetings can be a great tool for disseminating information, decision making, or getting feedback. The following are my expectations for everyone in digital product when attending a meeting. These expectations are for meeting with me, a digital product peer, or someone outside of our department. Basically every meeting you attend.
+I value face to face discussion / debate and find meetings are sometimes the most effective way to disseminate information or to make a decision. I respect your time and try to be thoughtful about whether we actually need a meeting and when I schedule a one. My goal is to schedule meetings when they will be the least disruptive to your schedule. It's not always possible to find a good slot that works for all attendees. I apologize. 
 
-- Meetings start and end on time. It's reasonable for a meeting to start 2-3 minutes late to give attendees time to get out of a previous meeting, grab a drink, or to use the bathroom. When you're meeting is over, you need to vacate the room for the next scheduled meeting. Companywide we use knocking as a way to indicate that people are waiting and that you need to clear the room.
+Recently I started using [Clockwise](https://www.getclockwise.com/) to manage some of the meetings on my calendar. It's a tool that optimizes for stretches of focus time and automatically schedules / reschedules meetings to the time that is best for all attendees. The more people on the team who use it the smarter it gets for everyone. I recommend installing it and customizing it for your desired schedule.
 
-- If a meeting completes its intended purpose before its scheduled to end, give back the remaining time to everyone. On the flip side, if the intended goal won't be achieved in the allotted time, stop the meeting before time is up and determine how to finish the meeting at a later time.
+If you find yourself in too many meetings come talk to me and we will figure out if they are all necessary. We try not to be too meeting heavy and I regularly review the recurring meetings on the teams schedule and I'm not afraid to kill unproductive or unnecessary meetings.
 
-- Show presenters/attendees the utmost respect by being attentive, staying off your phone, and only using your computer for meeting related activities. If there's something more important that requires your attention, you should excuse yourself.
-
-- Meetings should have an agenda that is communicated to the attendees at least 6 hours prior to give them time to think and plan. If there's a deck or materials that are useful to share before hand, send it out.
-
-- If it's unclear how you will add value to a meeting it's okay to request clarification. If you truly can't add value you can decline the meeting.
-
-- Make yourself available for meetings. From time to time it's okay to block off a small chunk of your calendar for "making" or quiet time. But your calendar shouldn't have regularly blocked time with the intended purpose of preventing meetings.
-
-- If you are in too many meetings come talk to me and we will figure out if they are all necessary. We try not to be too meeting heavy and regularly review the recurring meetings on everyone's schedule.
-
-- If you are unable to attend a meeting or are going to be late, try to inform the meeting organizer with adequate notice.
-
-I do my best to schedule meetings when they will be the least disruptive to your schedule. It's not always possible to find a good slot that works for all attendees. I apologize.
-
-## Expectations
+## My Expectations of You
 - Default to: what is best for Common?
 
 - Do amazing work! But you shouldn't strive for perfection. I'd rather see something live and providing value to the business then stuck because a better algorithm/pattern/optimization/etc. was identified. That doesn't mean you shouldn't improve your code, it just means you can ship something that meets the definition of done and make additional improvements after it's released. Find the balance between good enough and perfect.
@@ -143,13 +125,13 @@ I do my best to schedule meetings when they will be the least disruptive to your
 ## Personal
 I'm very open about my life. I enjoy telling personal stories and talking about my experiences. Your personal life is yours and you should share as much or as little of it as you like.
 
-My wife Jessica and I have a son named Nate and a Cavapoo named Sgt Pepper (we call him Sarge). I love strategy board games, Settlers of Catan is my favorite. I enjoy eating and trying new foods. I've eaten a bunch of weird things I can tell you about if you're interested. I enjoy traveling. The last 3 big trips I took were to Thailand, London, and Italy. I've been snowboarding for almost 20 years. When I'm at my desk I'm usually listening to music. I like classic rock, 90's/2000's punk/ska/rock, jam bands, indie electronic, and modern rock.
+My wife Jessica and I have a son named Nate, a Cavapoo named Sgt Pepper (we call him Sarge), and another baby on the way due in Feb 2019. I love strategy board games, Settlers of Catan is my favorite. I enjoy eating and trying new foods. I've eaten a bunch of weird things I can tell you about if you're interested. I enjoy traveling. The last 3 big trips I took were to Thailand, London, and Italy. I've been snowboarding for almost 20 years. When I'm at my desk I'm usually listening to music. I like classic rock, 90's/2000's punk/ska/rock, jam bands, indie electronic, and modern rock.
 
  Some things you should know about me:
 
 - I try not to take life or myself too seriously. I like to joke and mess around. I try to make my presentations fun. Let's try to laugh, have a good time, and build something amazing together.
 
-- I try not to say "no" too often. I prefer "yes" or "yes, but not right now". Don't mistaken this for me over committing to things by saying "yes" to everything.
+- I try not to say "no" too often. I prefer "yes" or "yes, but not right now". Don't mistaken this for me over committing to things.
 
 - When I get excited or impassioned about a topic I'll start talking faster. Tell me to slow down if you can't understand me (my wife does!).
 
@@ -165,6 +147,6 @@ My wife Jessica and I have a son named Nate and a Cavapoo named Sgt Pepper (we c
 
 --
 
-Thanks for reading! I look forward to getting to know you better!
+Thanks for reading!
 
-This document is a living breathing document and will be updated as my philosophies change, I learn things about myself, or feel like there's something you should know. Was reading this valuable? Did I miss anything critical? Anything that wasn't very useful? I'd love to hear your feedback.
+I'd love your feedback: Was reading this valuable? Did I miss anything critical? Anything that wasn't very useful?
