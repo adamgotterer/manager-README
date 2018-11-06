@@ -17,7 +17,7 @@ As the CTO of Common my responsibilities are:
 - Review and iterate on our process and technology
 - Mentor and help you be successful at your job
 
-I'm here for you. I'll do what I can to provide opportunities for learning and personal growth. You'll need to see these as opportunities and act on them. This is your career and I won't tell you what you should do, but I'm here to guide you and offer feedback and advice. I'm here to help you achieve your goals.
+I'm here for you. I'll do what I can to provide opportunities for learning and personal growth. This is your career and I won't tell you what you should do, but I'm here to guide you and offer feedback and advice. I'm here to help you achieve your goals.
 
 Since 2008, I've been managing and leading engineering teams and contributing varying amounts of code based on the role and stage of the company. I'm an engineer by trade and have been writing code and shipping software for a long time. I love coding and miss it at times. I do my best to stay relevant and close to the technology. These days, the closest I get to code is contributing to high level architecture discussions, jumping into a PR/slack conversation to offer my 2 cents, or pair programming when someone on the team needs some partnership. I can provide an outside perspective but won't be working on your project day-to-day and may not know all the nuances. I can be a good sounding board and have informed thoughts.
 
