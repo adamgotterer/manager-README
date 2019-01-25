@@ -107,7 +107,7 @@ If you find yourself in too many meetings come talk to me and we will figure out
 
 - No owners, just maintainers. If you can make a worthwhile improvement or change to an area you aren't familiar with, you should.
 
-- Code was meant to be changed. Don't take it personal if someone changes yours.
+- Code was meant to be changed. Don't take it personally if someone changes yours.
 
 - Quality assurance is everyone's responsibility. I don't believe in hiring QA people as a dedicated role for engineers to throw work over the wall to.
 
