@@ -13,30 +13,31 @@ As the CTO of Common my responsibilities are:
 - Build a great engineering culture and organization
 - Disseminate information
 - Set and provide context
-- Define a long term roadmap and vision for how Common uses technology
+- Define a long term road map and vision for how Common uses technology
 - Review and iterate on our process and technology
 - Mentor and help you be successful at your job
 
 I'm here for you. I'll do what I can to provide opportunities for learning and personal growth. This is your career and I won't tell you what you should do, but I'm here to guide you and offer feedback and advice. I'm here to help you achieve your goals.
 
-Since 2008, I've been managing and leading engineering teams and contributing varying amounts of code based on the role and stage of the company. I'm an engineer by trade and have been writing code and shipping software for a long time. I love coding and miss it at times. I do my best to stay relevant and close to the technology. These days, the closest I get to code is contributing to high level architecture discussions, jumping into a PR/slack conversation to offer my 2 cents, or pair programming when someone on the team needs some partnership. I can provide an outside perspective but won't be working on your project day-to-day and may not know all the nuances. I can be a good sounding board and have informed thoughts.
+Since 2008, I've been managing and leading engineering teams and contributing varying amounts of code based on the role and stage of the company. I'm an engineer by trade and have been writing code and shipping software for a long time. I love coding and miss it at times. I do my best to stay relevant and close to the technology. These days, the closest I get to writing code in the critical path is contributing to architecture discussions, jumping into a PR/slack conversation to offer my 2 cents, or pair programming when someone on the team needs some partnership. I can provide an outside perspective but won't be working on your project day-to-day and may not know all the nuances. I can be a good sounding board and have informed thoughts.
 
-At the moment, I'm not making code contributions to Commons code base, but one day I may spend a small amount of time experimenting with ideas, building tools, or making small improvements. I very rarely, if ever, will write code in the critical path.
+At the moment, I'm not making many code contributions to Commons code base, I spend a small amount of time on the occasional side project and in the future hope to dedicate a small amount of time to experimenting with ideas, building tools, or making small improvements. I very rarely, if ever, will write code in the critical path.
 
 ## One on One's
+If you are one of my direct reports I've added a 30 minute weekly 1:1 to your calendar. This is your time. Feel free to reschedule it to a time that is best for you and adjust the length and frequency as you see fit. If you feel like an hour is what you need, lets meet for an hour. If you'd prefer to meet every two weeks for 30 minutes, let's do that. At a minimum we should try and meet for at least 30 minutes every two weeks.
 
-I've added a 30 minute weekly 1:1 to your calendar. This is your time. Feel free to reschedule it to a time that is best for you and adjust the length and frequency as you see fit. If you feel like an hour is what you need, lets meet for an hour. If you'd prefer to meet every two weeks for 30 minutes, let's do that. At a minimum we should try and meet for at least 30 minutes every two weeks.
+If you report into one of my direct reports I've added a 30 minute monthly 1:1 to your calendar. This is your time. Feel free to reschedule it to a time that is best for you and adjust the length as you see fit. If you feel like an hour is what you need, lets meet for an hour.
 
 Since this is your meeting, I expect you to drive the agenda and come to the meeting with topics to discuss. It can be difficult to come up with topics in the moment, so I encourage you to write down topics throughout the week and send them to me a few days/hours before we meet. The earlier I get them the more time I have to think about a response. Don't save time sensitive or important things for our 1:1, we should chat about that sooner.
 
-The most productive 1:1's are where we talk about your goals, personal growth, the company, the vision, strategy, etc. Our 1:1 should not be a status update session. We should only talk about status if you feel like I need a status update (I won't ask you for one). I'm happy to talk through the challenges you are having on a project, but you don't need to wait for our 1:1 to tap me for help.
+The most productive 1:1's are where we talk about your goals, personal growth, the company, the vision, strategy, etc. Our 1:1 should not be a status update session. We should only talk about status if you feel like I need a status update. I'm happy to talk through the challenges you are having on a project, but you don't need to wait for our 1:1 to tap me for help.
 
 I really enjoy getting out of the office and doing 1:1's outside on a bench, in a park, or over a walk. I have some 1:1's that are always a walk, some that are outside when the weather is right, and others that are always inside. I leave this choice up to you.
 
 My preference is that we have our 1:1 in person, if possible. So, if you aren't in the office please reschedule it for an open slot on my calendar when you will be back in the office.
 
 ## 15Fives
-You will receive an invite to 15Five, a platform we use companywide for managing feedback, reviews, and status updates. Please complete your 15Five each week. My preference is to be able to review it at least a few hours before our 1:1. It will ask you a few questions about what you are working on this week and last, if you have blockers, and a few other questions that are helpful for me. 
+You will receive an invite to 15Five, a platform we use company wide for managing feedback, reviews, and status updates. Please complete your 15Five each week on time. I prefer my direct reports to submit it at least a day before our 1:1 so that I have time to review it. It will ask you a few questions about what you are working on this week and last, if you have blockers, and a few other questions that are helpful for me. 
 
 ## Feedback
 I believe in timely feedback. I won't always wait until our 1:1 to deliver it. I'm pretty blunt and don't shy away from a difficult conversation. I hope that you'll be comfortable giving feedback to me as well. I want to know when I make a mistake or screw up. Tell me so that I can learn from it and not do it again.
@@ -54,19 +55,19 @@ My calendar can be quite intimidating and is often a sea of meetings. Don't be a
 
 From time to time you'll see something marked with DNS (Do Not Schedule) on my calendar. This is reserved for times I have appointments, personal responsibilities, or small chunks of time I need to focus, prepare, or complete something. 
 
-I follow the headphone rules for engineers. If you are wearing headphones or your office door is closed I won't bother you. That rule doesn't apply to me. If I have headphones on, it does not mean I am "in the zone" or expect to not be interrupted (I'm probably just enjoying some music). Feel free to get my attention. If I'm about to run off for a meeting  I'll let you know and we can figure out a better time to chat.
+I follow the headphone rules for engineers. If you are wearing headphones I won't bother you. That rule doesn't apply to me. If I have headphones on, it does not mean I am "in the zone" or expect to not be interrupted (I'm probably just enjoying some music). Feel free to get my attention. If I'm about to run off for a meeting  I'll let you know and we can figure out a better time to chat.
 
 ## Working Hours
-I'm usually in the office around 9/9:15am and leave between 6pm and 7pm. The rest of the team starts their day at varying times ranging from 8:30am to 10:30am and leave at 6pm or later. On Mondays and sometimes other random days I leave at 5pm to pick up my son from school, this time is blocked off on my calendar. I'm generally online and available again in the evenings.
+I'm usually in the office around 9/9:15am and leave between 6pm and 7pm. The rest of the team starts their day at varying times ranging from 8:30am to 10:30am and leave at 6pm or later.
 
 I'm more interested in output and impact than hours in the office. You're an adult and should decide what work life balance / integration looks like for you. With that said, you are working as a part of a team, so I ask that you have at least 4-5 hours a day of overlap with the rest of the team and that you clearly communicate your availability.
 
-I love what I do and sometimes I work in the evenings or during the weekend. I don't expect you to. I don't mute slack notifications to my phone and I check email regularly. During off hours I filter incoming messages and will reply if it's important, I'm not busy, or if it only requires a quick response. Outside of working hours I often think of ideas, questions, or solutions. This might manifest itself in an email, comment, or slack message directed to you. I don't expect you to reply until the next business day unless I call it out as urgent.
+I love what I do and sometimes I work in the evenings or during the weekend. I don't expect you to. I don't mute slack notifications to my phone and I check email regularly. During off hours I filter incoming messages and will reply if it's important, I'm not busy, or if it only requires a quick response. Outside of working hours I often think of ideas, questions, or solutions. This might manifest itself in an email, comment, or slack message directed at you. I don't expect you to reply until the next business day unless I call it out as urgent.
 
 ## Meetings
 I value face to face discussion / debate and find meetings are sometimes the most effective way to disseminate information or to make a decision. I respect your time and try to be thoughtful about whether we actually need a meeting and when I schedule a one. My goal is to schedule meetings when they will be the least disruptive to your schedule. It's not always possible to find a good slot that works for all attendees. I apologize. 
 
-Recently I started using [Clockwise](https://www.getclockwise.com/) to manage some of the meetings on my calendar. It's a tool that optimizes for stretches of focus time and automatically schedules / reschedules meetings to the time that is best for all attendees. The more people on the team who use it the smarter it gets for everyone. I recommend installing it and customizing it for your desired schedule.
+I  use [Clockwise](https://www.getclockwise.com/) to manage some of the meetings on my calendar. It's a tool that optimizes for stretches of focus time and automatically schedules / reschedules meetings to the time that is best for all attendees. The more people on the team who use it the smarter it gets for everyone. I recommend installing it and customizing it for your desired schedule.
 
 If you find yourself in too many meetings come talk to me and we will figure out if they are all necessary. We try not to be too meeting heavy and I regularly review the recurring meetings on the teams schedule and I'm not afraid to kill unproductive or unnecessary meetings.
 
@@ -125,7 +126,7 @@ If you find yourself in too many meetings come talk to me and we will figure out
 ## Personal
 I'm very open about my life. I enjoy telling personal stories and talking about my experiences. Your personal life is yours and you should share as much or as little of it as you like.
 
-My wife Jessica and I have a son named Nate, a Cavapoo named Sgt Pepper (we call him Sarge), and another baby on the way due in Feb 2019. I love strategy board games, Settlers of Catan is my favorite. I enjoy eating and trying new foods. I've eaten a bunch of weird things I can tell you about if you're interested. I enjoy traveling. The last 3 big trips I took were to Thailand, London, and Italy. I've been snowboarding for almost 20 years. When I'm at my desk I'm usually listening to music. I like classic rock, 90's/2000's punk/ska/rock, jam bands, indie electronic, and modern rock.
+My wife Jessica and I have two boys, Nate and Cameron (we call him Baby Cam), and a Cavapoo named Sgt Pepper (we call him Sarge). I love strategy board games, Settlers of Catan is my favorite. I enjoy eating and trying new foods. I've eaten a bunch of weird things I can tell you about if you're interested. I enjoy traveling. The last 3 big trips I took were to Thailand, London, and Italy. I've been snowboarding for almost 20 years. When I'm at my desk I'm usually listening to music. I like classic rock, 90's/2000's punk/ska/rock, jam bands, indie electronic, and modern rock.
 
  Some things you should know about me:
 
