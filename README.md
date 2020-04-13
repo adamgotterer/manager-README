@@ -36,8 +36,8 @@ I really enjoy getting out of the office and doing 1:1's outside on a bench, in 
 
 My preference is that we have our 1:1 in person, if possible. So, if you aren't in the office please reschedule it for an open slot on my calendar when you will be back in the office.
 
-## 15Fives
-You will receive an invite to 15Five, a platform we use company wide for managing feedback, reviews, and status updates. Please complete your 15Five each week on time. I prefer my direct reports to submit it at least a day before our 1:1 so that I have time to review it. It will ask you a few questions about what you are working on this week and last, if you have blockers, and a few other questions that are helpful for me. 
+## Lattice
+You will receive an invite to Lattice, a platform we use company wide for managing feedback, reviews, and status updates. Please complete your Lattice each week on time. I prefer my direct reports to submit it at least a day before our 1:1 so that I have time to review it. It will ask you a few questions about what you are working on this week and last, if you have blockers, and a few other questions that are helpful for me. 
 
 ## Feedback
 I believe in timely feedback. I won't always wait until our 1:1 to deliver it. I'm pretty blunt and don't shy away from a difficult conversation. I hope that you'll be comfortable giving feedback to me as well. I want to know when I make a mistake or screw up. Tell me so that I can learn from it and not do it again.
